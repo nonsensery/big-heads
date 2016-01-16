@@ -1,0 +1,21 @@
+{
+  "name": "big-heads",
+  "version": "0.0.1",
+  "description": "A hack that makes group Hangouts better",
+  "main": "src/big-heads.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp",
+    "watch": "gulp watch",
+    "assemble": "gulp bookmarklet"
+  },
+  "author": "Alex Johnson <alex27@mac.com>",
+  "license": "CC-BY-4.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.4.1"
+  }
+}
