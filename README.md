@@ -16,7 +16,7 @@ This project generates a bookmarklet does just that.
 **Tips:**
 
 - You use either the main keyboard, or the number pad to type the `+` and `-`.
-- You can also type `=` to zoom in, since that's the `+` key without shift held down on my keyboard layout.
+- You can also type `=` to zoom in, since that's the same key as `+` on my keyboard layout.
 
 ## Building
 
